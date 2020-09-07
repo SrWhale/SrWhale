@@ -7,7 +7,7 @@ Meu nome é Paulo e eu sou um desenvolvedor iniciamente na linguagem JavaScript 
 </p>
 
 
- <img src = "https://github-readme-stats.vercel.app/api?username=srwhale&show_icons=true&theme=white&line_height=27">
+ <img src = "https://github-readme-stats.vercel.app/api?username=srwhale&show_icons=true&theme=green&line_height=27">
 
 <!--
 **SrWhale/SrWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 <strong> <h2> Hi guys (Oi pessoal)! 👋</h2> </strong>
 
 <p>
- Meu nome é <strong>Paulo Henrique</strong> e eu sou um desenvolvedor iniciamente na linguagem <strong> <a href="https://www.javascript.com/"> JavaScript</a></strong> , utilizando principalmente <strong> <a href="https://nodejs.org/en/"> NodeJS</a></strong>. Ainda faço aplicações extremamente básicas, como Bots para Discord (<a href="https://github.com/SrWhale/Pterodactyl-Panel">Clique aqui para acessar a SRC de um dos meus Bots</a>), mas pretendo ingressar no incrível mundo do <strong>Java</strong> e <strong>C#</strong>. 
+ Meu nome é <strong>Paulo Henrique</strong> e eu sou um desenvolvedor iniciante na linguagem <strong> <a href="https://www.javascript.com/"> JavaScript</a></strong> , utilizando principalmente <strong> <a href="https://nodejs.org/en/"> NodeJS</a></strong>. Ainda faço aplicações extremamente básicas, como Bots para Discord (<a href="https://github.com/SrWhale/Pterodactyl-Panel">Clique aqui para acessar a SRC de um dos meus Bots</a>), mas pretendo ingressar no incrível mundo do <strong>Java</strong> e <strong>C#</strong>. 
 
 - 👨🏽‍💻 Atualmente estou programando para o SwiftBOT e para a StarDust MoonStudio.
 - 🌐 Você pode acessar meu portifólio [clicando aqui](https://github.com/SrWhale/)

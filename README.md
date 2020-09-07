@@ -7,5 +7,6 @@
 - 🌐 Você pode acessar meu portifólio [clicando aqui](https://github.com/SrWhale/)
 </p>
 
-
+<p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api?username=srwhale&show_icons=true&theme=chartreuse-dark&line_height=27">
+ </p>

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alhassan.best) ![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)
+ <img src = "https://github-readme-stats.vercel.app/api?username=alhassanv&show_icons=true&theme=radical&line_height=27">
 
 <!--
 **SrWhale/SrWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

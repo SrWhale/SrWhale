@@ -5,6 +5,7 @@
 
 - 👨🏽‍💻 Atualmente estou trabalhando para o <a href="https://github.com/SwiftBot-Team">SwiftBOT</a> (Um simples e divertido BOT par Discord) e para a StarDust - MoonStudio, programando um portal de notas para a escola que estudo.
 - 🌐 Você pode acessar meu portifólio [clicando aqui](https://github.com/SrWhale?tab=repositories)
+- 🧑‍🎓 Estudante do IF Baiano - Cursando Técnico em Agropecuária
 </p>
 
 <p align = "center">

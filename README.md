@@ -11,5 +11,6 @@
 <p align = "center">
  <a href="https://github.com/SrWhale/">
  <img src = "https://github-readme-stats.vercel.app/api?username=srwhale&show_icons=true&theme=chartreuse-dark&line_height=27">
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SrWhale&layout=compact)
  </a>
  </p>
